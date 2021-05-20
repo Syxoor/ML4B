@@ -1,0 +1,6 @@
+fasttext
+html
+nltk
+re
+streamlit 
+numpy
