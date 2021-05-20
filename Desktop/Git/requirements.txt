@@ -1,5 +1,4 @@
 fasttext
-html
 nltk
 re
 streamlit 
