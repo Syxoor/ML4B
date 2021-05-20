@@ -3,3 +3,4 @@ html
 nltk
 re
 streamlit 
+numpy
