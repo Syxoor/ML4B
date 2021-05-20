@@ -8,7 +8,7 @@ import numpy as np
 
 nltk.download('stopwords')
 words = stopwords.words("german")
-model = fasttext.load_model('Desktop/Git/FT.bin')
+model = fasttext.load_model("FT.bin")
 
 def cleaner(text):
     tweet = html.unescape(text)
