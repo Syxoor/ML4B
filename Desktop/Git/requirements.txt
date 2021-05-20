@@ -1,5 +1,4 @@
 fasttext
 nltk
-re
 streamlit 
 numpy
